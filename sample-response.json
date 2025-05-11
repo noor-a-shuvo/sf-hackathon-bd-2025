@@ -1,1 +1,140 @@
+{
+  "rooms": [
+    {
+      "id": "R101",
+      "name": "Soundproof Focus Pod 1",
+      "capacity": 1,
+      "amenities": ["Noise-Canceling Headset"]
+    },
+    {
+      "id": "R102",
+      "name": "Soundproof Focus Pod 2",
+      "capacity": 1,
+      "amenities": ["Noise-Canceling Headset"]
+    },
+    {
+      "id": "R201",
+      "name": "Huddle Room 1",
+      "capacity": 4,
+      "amenities": ["Whiteboard", "Portable Projector"]
+    },
+    {
+      "id": "R202",
+      "name": "Huddle Room 2",
+      "capacity": 4,
+      "amenities": ["Whiteboard"]
+    },
+    {
+      "id": "R301",
+      "name": "Collaboration Room A",
+      "capacity": 8,
+      "amenities": ["Smartboard", "VCU Type B", "Wireless Presentation Clicker"]
+    },
+    {
+      "id": "R302",
+      "name": "Collaboration Room B",
+      "capacity": 8,
+      "amenities": ["Smartboard", "VCU Type A"]
+    },
+    {
+      "id": "R401",
+      "name": "Boardroom A",
+      "capacity": 16,
+      "amenities": ["VCU Type A", "Smartboard", "Portable Projector"]
+    },
+    {
+      "id": "R402",
+      "name": "Boardroom B",
+      "capacity": 20,
+      "amenities": ["VCU Type A", "Wireless Presentation Clicker", "Soundproofing"]
+    }
+  ],
+  "equipment": [
+    {
+      "id": "E001",
+      "name": "Portable Video Conferencing Unit - Type A",
+      "type": "VCU Type A",
+      "serial_number": "VCUA-10234"
+    },
+    {
+      "id": "E002",
+      "name": "Portable Video Conferencing Unit - Type B",
+      "type": "VCU Type B",
+      "serial_number": "VCUB-20344"
+    },
+    {
+      "id": "E003",
+      "name": "Portable Smartboard 1",
+      "type": "Smartboard",
+      "serial_number": "SB-45689"
+    },
+    {
+      "id": "E004",
+      "name": "Portable Smartboard 2",
+      "type": "Smartboard",
+      "serial_number": "SB-67890"
+    },
+    {
+      "id": "E005",
+      "name": "VR Headset 1",
+      "type": "VR/AR Testing Kit",
+      "serial_number": "VRX-99123"
+    },
+    {
+      "id": "E006",
+      "name": "VR Headset 2",
+      "type": "VR/AR Testing Kit",
+      "serial_number": "VRX-56327"
+    },
+    {
+      "id": "E007",
+      "name": "Portable Projector 1",
+      "type": "Portable Projector",
+      "serial_number": "PJP-12345"
+    },
+    {
+      "id": "E008",
+      "name": "Digital Drawing Tablet 1",
+      "type": "Digital Drawing Tablet",
+      "serial_number": "DTB-55987"
+    },
+    {
+      "id": "E009",
+      "name": "Wireless Presentation Clicker 1",
+      "type": "Wireless Presentation Clicker",
+      "serial_number": "WPC-78901"
+    },
+    {
+      "id": "E010",
+      "name": "Portable Monitor 1",
+      "type": "Portable Monitor",
+      "serial_number": "PM-11234"
+    },
+    {
+      "id": "E011",
+      "name": "iPad Pro 12.9\" 2024",
+      "type": "Tablet",
+      "serial_number": "IPD-43221"
+    },
+    {
+      "id": "E012",
+      "name": "iPhone 14 Pro",
+      "type": "Smartphone",
+      "serial_number": "IP-78456"
+    },
+    {
+      "id": "E013",
+      "name": "Android Phone - Samsung Galaxy S23",
+      "type": "Smartphone",
+      "serial_number": "AND-23456"
+    },
+    {
+      "id": "E014",
+      "name": "Android Tablet - Samsung Tab S8",
+      "type": "Tablet",
+      "serial_number": "ANDT-76543"
+    }
+  ],
+  "last_updated": "2025-05-11T05:00:00Z"
+}
 
